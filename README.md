@@ -1,4 +1,4 @@
-![Logo](WhatsApp Image 2023-12-12 at 20.58.54.jpeg)
+![Logo](https://github.com/Weuller13/Sistema_gestao_de_estoque_EletroTech/blob/main/WhatsApp%20Image%202023-12-12%20at%2020.58.54.jpeg)
 
 # Sistema_gestao_de_estoque_EletroTech
 O principal objetivo deste projeto é criar um sistema que permita à EletroTech monitorar e gerenciar seu estoque de forma eficaz, garantindo que haja sempre um equilíbrio adequado entre a oferta e a demanda.
